@@ -1,2 +1,1 @@
-# console-game-older
-[personal project] A little console game
+![image](console-game-older.gif)
